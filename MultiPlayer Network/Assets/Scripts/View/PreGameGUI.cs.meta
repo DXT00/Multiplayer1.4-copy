@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c420bf586eedf51499c3e05f4c38d4ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ConnectButton: {instanceID: 0}
+  - JoinButton: {instanceID: 0}
+  - playerText: {fileID: 1059400681950340, guid: 464e8a9a7d0fa3245902daf4d7b45512,
+      type: 2}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
